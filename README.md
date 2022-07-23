@@ -9,8 +9,8 @@ https://www.youtube.com/embed/videoseries?list=PLivrBlTrqPpaUyPcGpUUAaZgcAJCYTLq
 [![YouTube Video](https://img.youtube.com/vi/_4wK_u57eqA/maxresdefault.jpg)](https://www.youtube.com/embed/videoseries?list=PLivrBlTrqPpaUyPcGpUUAaZgcAJCYTLqt) </br>
 
 schematic of the Smart Nal Hardware. <br>
-#<embed src="smartNal.pdf" type="application/pdf">
-#<image src="smartNal.pdf"/>
+<embed src="smartNal.pdf" type="application/pdf">
+<image src="smartNal.pdf"/>
 <object data="smartNal.pdf" type="application/pdf" width="100%"> 
 </object>
 
