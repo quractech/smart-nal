@@ -1,5 +1,6 @@
 # smart Nal
-Smart Nal enables ON and OFF functionality for led ceiling lamp using Bluetooth or normal light switch. <br>
+Smart Nal enables ON and OFF functionality for LED ceiling lamp using Bluetooth or normal light switch. <br>
+
 
 ![imag of the Smart Nal Hardware](all-put-together.jpg)
 
